@@ -1,2 +1,3 @@
 - Nome: Joao Silva
-- Descricao: Estudante de Sistemas de Informa¸c~ao
+- Descricao: Estudante de Sistemas de Informacao
+- Estudante de Eng de Software
